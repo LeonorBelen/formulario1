@@ -1,0 +1,43 @@
+.caja{
+    display: flex;
+    justify-content: center;
+}
+.conteiner{
+    padding: 100px;
+    background-color: rgb(222, 234, 248);
+    border: 100px;
+    width: 600px;
+    height: 300px;
+    border-radius: 1px;
+    box-shadow: 5px 10px 8px #b8a9a9;
+}
+
+.secction{ 
+    padding: 20px;
+}
+
+
+a:hover {
+    background-color: rgb(42, 95, 173);
+}
+.contenido {
+    width: 70%;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    border: 1px solid #f8f7f7;
+    font-size: 18px;
+}
+.buton {
+    color: aliceblue;
+    background-color: #1ca39e;
+    width: 100%;
+    border-top: 20px;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    cursor: pointer;
+}
